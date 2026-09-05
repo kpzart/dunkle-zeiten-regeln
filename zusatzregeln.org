@@ -172,7 +172,7 @@ Charakterbogen: Ergänze auf dem Zustandsbogen zwei weitere Felder für Wundschw
 [[id:7159dc0f-f646-4fc0-a21a-2888a595e29b][Normalschaden]]
 #+end_comment
 
-*Normalschaden:* Unabhängig vom Ausgang einer Kampfprobe erhalten die Kontrahenten Verletzungen, den sogn. /Normalschaden/. Die Höhe des Normalschadens beträgt gegen Bewaffnete 2 Punkte oder 1W3 Punkte, gegen Unbewaffnete einen Punkt. Der Effekt wird zum Normalschaden des Unterlegenen addiert und erzeugt eine gemeinsame Wunde.
+*Normalschaden:* Im Nahkampf erhalten die Kontrahenten, unabhängig vom Ausgang der Kampfprobe, Verletzungen, den sogn. /Normalschaden/. Die Höhe des Normalschadens beträgt gegen Bewaffnete 2 Punkte oder 1W3 Punkte, gegen Unbewaffnete einen Punkt. Der Effekt wird zum Normalschaden des Unterlegenen addiert und erzeugt eine gemeinsame Wunde.
 
 #+begin_comment
 [[id:9ac7becc-4ad5-428d-b935-bb7b1fe10169][Verteilung Effekt bei Normalschaden durch Überlegenen]]
