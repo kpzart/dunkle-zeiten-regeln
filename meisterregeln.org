@@ -20,9 +20,12 @@ Diese Regeln sind eine Ideensammlung, die kompatibel zu den Grund- und Zusatzreg
 #+begin_comment
 [[id:4802f5ca-d982-4e5d-a0a3-c0dcbb9c1fb9][Tricks]]
 [[id:1b09e426-ad4e-4065-95cc-0544766f8f42][Tricks durch Schicksalspunkte]]
+[[id:31fdd6c4-e1b2-4239-9942-095d9daffc4c][Alternative Teilbereiche]]
 #+end_comment
 
 *Tricks:* Tricks sind charakter-spezifische Spezialregeln, die durch Erfahrungspunkte bezahlt werden. Dadurch können Regelausnahmen festgelegt werden (z.B. dass ein waffenlos Kämpfender keinen Malus erhält). Der Einsatz von Tricks erfordert einen Schicksalspunkt.
+
+*Alternative Spezialgebiete:* Fertigkeiten lassen eine alternative Einteilung in Teilbereiche zu, in denen ein Charakter eine zusätzliche Stärke besitzen kann (allerdings weiterhin nur eine Schwäche pro Fertigkeit). Beispiel ist die Einteilung von /Kämpfen/ nach Manöver (siehe unten).
 
 * Inventar
 
@@ -92,6 +95,7 @@ Hinweis: Die Regel ist bereits in spezieller Form in den Zusatzregeln als /Probe
 [[id:49726767-adab-48c3-987d-a8e86ea4647a][Fernkampf Duell als vergleichende Probe]] - trivial
 [[id:00b537a4-016b-4ce4-91ed-df8a6fd325a2][Fernkampf-Schuss gegen Schwierigkeit]] - trivial
 [[id:8f4a80ef-dd06-44cb-b89e-da43a45d48fe][Fernkampf-Schuss ins Kampfgetümmel als Apfelschussprobe]]
+[[id:0f56ba38-a99d-4793-bedf-f94814451bc0][Manöver als alternative Teilbereiche]]
 #+end_comment
 
 *Gewürfelte Verletzung:* Um die Stufe der Verletzung zu bestimmen, die aus einem Konflikt resultiert, wird mit W6 (oder W3 waffenlos) gewürfelt anstatt den Effekt der Probe zu verwenden. Zum Beispiel, wenn es gar keine klassische Kampfprobe gab.
@@ -128,6 +132,8 @@ Die Verletzungen für die unterzählige Seite dürfen auf mehrere Wunden (ganzza
 Die Verletzungen für die überzählige Seite, müssen auf Wunden für alle Mitglieder des Gespanns aufgeteilt werden (jedoch nicht unbedingt gleichmäßig). Beispiel: Der Elf darf seine 6 Effekt Punkte so aufteilen: je 1 Verletzungs-Punkt für zwei der Goblins der der dritte bekommt 4 Punkte ab.
 
 *Fernkampf-Schuss ins Kampfgetümmel als Apfelschussprobe:* Man legt eine Probe gegen Schwierigkeit zugrunde und erschwert sie aufgrund des Getümmels. Ist sie knapp nicht bestanden, wurde ein anderes Ziel getroffen. Die Stufe der Verletzung und das Opfer werden in dem Fall erwürfelt (oder aus den Umständen bestimmt). Getümmel-Modifikator zwischen -2 und -4. Fataler Bereich: -1 und -2.
+
+*Manöver als Spezialgebiete:* Die Fertigkeit /Kämpfen/ wird alternativ nach Manövern eingeteilt (in denen ein Charakter eine zusätzliche Stärke besitzen kann). Beispiele: Verletzen, KO-Schlag, Schnellschuss, Entwaffnen, ...
 
 * Magie
 #+begin_comment
