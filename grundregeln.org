@@ -279,12 +279,6 @@ Aufgeschrieben werden sollte sie auf jeden Fall dann, wenn sie von besonderer Wi
 
 *Probe für Verbrauchsgegenstände:* Verbrauchsgegenstände (Pfeile, Essen, ...) werden nicht aufgeschrieben. Wenn fraglich ist, ob der Vorrat alle ist, würfelt man eine Probe auf /Hab & Gut/. Das gleiche gilt für das Vorhandensein von Alltagsausrüstung (Fackeln, Seile, Zunderbox ...).
 
-#+begin_comment
-[[id:882c2258-a77a-4c88-b9f5-583cd6dee6ff][Begrenzung impliziter Ausrüstung durch Fertigkeit]]
-#+end_comment
-
-*Wert der Ausrüstung:* Die gesamte Ausrüstung (abgesehen von Questgegenständen) unterliegt einer wichtigen Einschränkung: Es darf maximal drei Gegenstände geben, deren Wert dem der Fertigkeit /Hab & Gut/ entspricht. Ansonsten ist sie frei wählbar und kann jederzeit verändert werden, solange das Spiel das zulässt.
-
 * Proben
 
 #+begin_comment
