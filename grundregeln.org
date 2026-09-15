@@ -442,7 +442,7 @@ Die Beschreibung der Tradition sollte der Spielgruppe vorgestellt werden, so das
 
 * Links
 
-- [[https://github.com/kpzart/dunkle-zeiten-charakterbogen/releases][Vorgefertigter Charakterbogen]]
+- [[https://github.com/kpzart/dunkle-zeiten-regeln/releases/latest/download/Charakterbogen.pdf][Vorgefertigter Charakterbogen]]
 - [[https://landertal.de/dunkle-zeiten-zusatzregeln/][Die Regelerweiterungen für die aktuelle Gruppe]]
 
 * Glossar                                                                                           :noexport:
