@@ -200,6 +200,7 @@ Der Charakterbogen eines Spielercharakters sollte enthalten:
 
 - Stellung (Stand, Ansehen, Rang, Benehmen; 0: Aussätziger/Verurteilter, 1: Sklave, 2: Leibeigener/Unmündiger, 3: Bettler, 4: Knecht/Tagelöhner, 5-6: Bauer/Handwerker/Soldat/Händler, 7-9: Gelehrter/Priester/Beamter, ab 10: Adelsränge)
 - Hab & Gut (Ausrüstung, Reichtum, Vorrat)
+- Kontakte (Familie, Freunde, Organisation, Geschäft)
 
 ** Geist
 
