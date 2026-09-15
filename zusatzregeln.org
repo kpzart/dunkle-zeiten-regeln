@@ -1,0 +1,252 @@
+:PROPERTIES:
+:ID:       332b86f7-74c4-4534-97d7-ea033975ff02
+:CREATED:  2026-01-08
+:END:
+#+title: Zusatzregeln
+
+Regelerweiterungen für erfahrene Gruppen.
+
+* Spielkonzept
+
+#+begin_comment
+[[id:392d6b6c-a205-41bb-9a9c-ee6e099e5d87][Ausnahme durch Konsens]]
+#+end_comment
+
+*Ausnahme durch Konsens:* Wenn alle Mitspieler einverstanden sind, kann jede weitere Regel temporär oder dauerhaft außer Kraft gesetzt oder verändert werden.
+
+#+begin_comment
+[[id:dbdc1e71-58a0-4055-9a05-06e2e31bc48c][Hybride Spielleitung]]
+#+end_comment
+
+*Hybride Spielleitung:* Die Spielleitung wird von einem Mitspieler übernommen und ist insbesondere für das Voranschreiten der Story und die Moderation der Runde alleine verantwortlich. Die anderen Aufgaben der Spielleitung dürfen jedoch jederzeit auch von anderen Spielern übernommen werden.
+
+* Charaktere
+
+#+begin_comment
+[[id:29a482ed-ba66-448c-8e9c-cc87cb29bd0f][Jederzeitige Steigerung]]
+#+end_comment
+
+*Jederzeitige Steigerung:* Die Umwandlung von Erfahrungspunkten in Fertigkeitspunkten kann jederzeit im Spiel stattfinden.
+
+#+begin_comment
+[[id:08c7cf1e-60c2-4ebd-8769-dd59fc2f949a][Umverteilung von Fertigkeitspunkten]]
+#+end_comment
+
+*Umverteilung von Fertigkeitspunkten:* Nach jedem Spielabend dürfen genauso viele Fertigkeitspunkte umverteilt werden, wie ein Charakter erhalten hat. Bei entsprechenden Erlebnissen können (durch Umverteilung) auch nach der Erschaffung des Charakters Fertigkeiten dauerhaft unter den Grundwert rutschen. In dem Fall sollte auch das Profil angepasst werden.
+
+#+begin_comment
+[[id:9cb7e16c-5141-4144-8105-7f381eb86ca6][Schlechte Eigenschaften]]
+#+end_comment
+
+*Schattenseiten:*
+
+Schattenseiten sind negative Charaktereigenschaften und werden als Schwächen (in der Regel auf /Wille/) abgebildet. Im Unterschied zu Schwächen darf eine Fertigkeit jedoch mehrere Schattenseiten tragen, zusätzlich zu einer eventuell vorhandenen Schwäche.
+
+Beispiele für Schattenseiten:
+
+- Angst vor ... (Spinnen, Untoten, Dunkelheit, Höhe ...) (auf /Wille/)
+- Gier/Sucht nach ... (Gold, Liebe, Alkohol, Glücksspiel ...) (auf /Wille/)
+- Neugier (auf /Wille/)
+- Jähzorn (auf /Wille/)
+- Rachsucht (auf /Wille/)
+- Arroganz gegenüber ... (niederen Ständen, Ungläubigen ...) (auf /Ausstrahlung/)
+- Vorurteile gegenüber ... (dem anderen Geschlecht, Adeligen, ...) (auf /Klugheit/)
+
+Charakterbogen: Erläutere deine Schattenseiten in deinem Profil und trage sie als Bemerkung bei der betroffenen Fertigkeit ein.
+
+#+begin_comment
+[[id:eda3a802-6b54-4867-ace9-49c9140ae01c][Schicksalspunkte]]
+[[id:36cbbdb8-7b6f-4ae3-9797-17b5cb71abc9][Wiederholung misslungener Proben durch Schicksalspunkte]]
+[[id:b4fa670e-e498-4183-8073-4b443f75e56f][Vor- und Nachteile durch Schicksalspunkten]]
+[[id:bbfbc184-965c-45f0-a2e4-c3c447dd441e][Abwendung eines Pech- oder Abysswurfs durch Schicksalspunkte]]
+[[id:47d00ce6-2f2b-4361-a28a-f2157359db7c][Unterstützende Fertigkeiten durch Schicksalspunkte]]
+#+end_comment
+
+*Schicksalspunkte:*
+
+Schicksalspunkte sind eine besondere Kraft, über die die Spieler-Charaktere (und mächtige NSCs) verfügen. Am Anfang eines Spielabends erhält jeder Charakter 1 Schicksalspunkte (nach Ermessen der SL). Innerhalb eines Abenteuers akkumulieren sich nicht verbrauchte Schicksalpunkte.
+
+Die Charaktere können sich Schicksalspunkte verdienen, in dem sie die in ihrem Profil angegebenen Eigenarten ihrer Charaktere auch dann ausspielen, wenn dies nicht dem Erfolg der Aufgabe oder dem Überleben des Charakters dienlich ist.
+
+Schicksalspunkte erlauben folgende Aktionen:
+
+- Durch Einsatz eines Schicksalspunktes darf eine Probe wiederholt werden.
+- Ein Patzer oder kleiner Haken kann abgewendet werden, indem ein Schicksalspunkt aufgewendet wird.
+- Einen Save Point setzen (alle Spieler müssen einen Punkt investieren), jede Rückkehr erfordert einen weiteren Schicksalspunkt
+- Der Einsatz eines Schicksalspunktes ermöglicht den Einsatz unterstützender Fertigkeiten bei einer Probe.
+- Der Einsatz von Magie erfordert einen Schicksalspunkt
+
+/Charakterbogen: Notiere den Stand deiner Schicksalspunkte am besten unterhalb deines Profils oder merke sie dir einfach einen Spielabend lang./
+
+* Inventar
+
+#+begin_comment
+[[id:055bce48-c4a9-4395-ab95-61459423d2ab][Explizite Spezialausrüstung]], [[id:8c19b729-1eca-43d1-8059-294534589faa][Spezialausrüstung durch Ausrüstungspunkte]]
+#+end_comment
+
+*Ausrüstungspunkte und Spezialausrüstung:*
+
+Der Wert der Fertigkeit /Hab & Gut/ ergibt die zur Verfügung stehenden Ausrüstungspunkte, die in Spezialausrüstung investiert werden kann. Spezialausrüstung gibt dem Charakter einen Punkt Bonus auf ein Spezialgebiet einer Fertigkeit. Jeder derartige Gegenstand kostet einen Ausrüstungspunkt.
+
+Für den Erwerb der Spezialausrüstung kann die SL eine Probe auf /Hab & Gut/ verlangen. Wenn sie verloren wird, werden die Ausrüstungspunkte wieder frei und der Charakter kann bei nächster Gelegenheit neue Spezialausrüstung erwerben.
+
+Charakterbogen: Füge auf dem Zustandsbogen eine Tabelle mit den Spalten /Beschreibung/ und dem betroffenen /Spezialgebiet/ ein, um deine Spezialausrüstung dort einzutragen.
+
+#+begin_comment
+[[id:cb11f997-4d74-40f5-a236-da18714143da][Pfiffige Ausrüstung als Spezialausrüstung]]
+#+end_comment
+
+*Pfiffige Ausrüstung* (z.B. Rauchbomben, Pfeilgift), die keinen Fertigkeitsbonus verleiht, kann ebenfalls als Spezialausrüstung über Ausrüstungspunkte realisiert werden.
+
+* Proben
+
+#+begin_comment
+[[id:40d37436-fdd9-41e3-88fb-657fc63301c2][Glücks- und Pechwürfe]]
+#+end_comment
+
+*Triumph und Patzer:* Wird in einer Würfelprobe (W6-W6) eine 5 (oder -5) erreicht, spricht man von einem Triumph (oder Patzer). Das Ergebnis ist außerordentlich und sollte entsprechend ausgespielt werden.
+
+#+begin_comment
+[[id:f963cd8c-6c05-45c2-b087-95c94557a9ff][Kleiner Haken]]
+#+end_comment
+
+*Kleiner Haken:* Ist eine Probe /gerade so/ gelungen (der Effekt ist also Null), wird sie als /gelungen mit kleinem Haken/ interpretiert, wodurch der Erfolg etwas getrübt wird.
+
+#+begin_comment
+[[id:0dd9c9b8-ccb9-458c-b6ab-2326f8a57b35][Verschmelzung von Fertigkeitswerten]]
+[[id:85fc6586-5b9d-4fa0-a798-44319954abb4][Verschmelzung von Fertigkeitswerten oder Effekten: /Jedem seine Chance/ ("Max")]]
+[[id:11885d53-4f09-42ab-98b8-32198155267e][Verschmelzung von Fertigkeitswerten oder Effekten: /Erklär's mir nochmal/ ("Mittel")]]
+[[id:d8718e3b-38c1-416a-9d42-46882f36ddb4][Verschmelzung von Fertigkeitswerten oder Effekten: /Mit gefangen, mit gehangen/ ("Min")]]
+[[id:8e293ab6-6c99-4eba-a931-a47e8cce2c31][Kombinationsproben durch Verschmelzung von Fertigkeiten]]
+[[id:f4c07aa8-0eda-4794-9f08-ab75ecb0030b][Gruppenproben durch Verschmelzung von Fertigkeiten]]
+[[id:e97c2d3a-9d1b-40ef-9f0e-48c19f5dadb1][Vorweg Randomisierte Gruppenproben durch Verschmelzung von Fertigkeiten]]
+#+end_comment
+
+*Kombinationsproben:* Anstatt auf eine einzelne Fertigkeit zu proben, kann auch auf den Mittelwert mehrerer Fertigkeiten oder auf anderweitig miteinander verrechnete Fertigkeitswerte, wie z.B. auf den höchsten oder niedrigsten Wert von zwei oder mehr Fertigkeiten, geprobt werden. Anstatt die Fertigkeitswerte miteinander zu verrechnen, kann auch zuerst einzeln für jede Fertigkeit gewürfelt, der Wurf auf die Fertigkeit addiert, dann miteinander verrechnet und anschließend die Schwierigkeit abgezogen werden. Schlußendlich können auch Probenergebnisse, also nach Abzug der Schwierigkeit für jede Einzelprobe, miteinander verrechnet werden. Die Fertigkeiten oder Proben können auch von unterschiedlichen Charakteren kommen, wodurch /Gruppenproben/ realisiert werden können.
+
+#+begin_comment
+[[id:5569e379-7273-4567-9092-315f0754e12e][Proben mit unterstützenden Fertigkeiten]]
+#+end_comment
+
+*Proben mit unterstützenden Fertigkeiten:* Gibt der Spieler einen guten Grund an und investiert einen Schicksalspunkt, kann er Proben durch eine andere Fertigkeit /unterstützen/. Der Bonus entspricht einem abgerundeten Viertel des anderen Fertigkeitswerts.
+
+* Gesundheit
+
+#+begin_comment
+[[id:a7806d64-7bca-4143-b339-38955cc80713][Zustand durch akkumulierte Wundstufen]]
+#+end_comment
+
+*Zustand durch akkumulierte Wundstufen:* Der gesundheitliche Gesamtzustand wird durch die akkumulierten Wundstufen festgelegt (zusätzlich zur schwersten Wunde). Es gilt die gleiche Tabelle wie bei /Zustand durch schwerste Wunde/, jedoch wird die erste Spalte (Wundstufe) verdoppelt. Im Prinzip sind das klassische Lebenspunkte als Zusatzregel.
+
+#+begin_comment
+[[id:c26bffa4-d7fb-4571-8b0b-081307717d4a][Sofortige Heilung]]
+#+end_comment
+
+*Sofortige Heilung:* Durch Heilkunst lässt sich die Wundstufe unmittelbar senken. Wird in der Probe mehr als ein Punkt Regeneration erreicht, wird der erste Punkt unmittelbar geheilt und nicht erst nach Ruhephase.
+
+#+begin_comment
+[[id:67538e66-e647-4864-bcfe-4bbef779b96e][Wundbrandt]]
+#+end_comment
+
+*Wundbrandt:* Verletzungen, die nicht verarztet wurden, werden schlimmer. Ist die Heilprobe nicht erfolgreich oder wird nicht durchgeführt, wird die Wunde nach der nächsten Ruhephase eine Stufe schwerer.
+
+#+begin_comment
+[[id:8e844b7b-d196-41e3-bf2b-2e9ce5c0d382][Geistige Verfassung]]
+#+end_comment
+
+*Motivation als Geistige Verfassung:* Die Fertigkeit /Wille (Mut)/ definiert die geistige Wundschwellen zur /Motivation/, analog zur körperlichen Wundschwelle. Geistige Wunden wirken sich auf die Domänen /Geist/ und /Sozial/ aus. Die Folgen sind Anspannung (Wundstufe 1-2), Resignation (Wundstufe 3-4) und Panik (Wundstufe 5-6). Heilung geschieht durch eine Probe auf /Ausstrahlung (Beruhigen)/. Auch für geistige Wunden gelten die Regeln zur /Sofortigen Heilung/ und zum /Wundbrandt/.
+
+*Verstand als Geistige Verfassung:* Analog zur Motivation wird die geistige Wundschwelle zum /Verstand/ aus der Fertigkeit /Klugheit (Verstand)/ abgeleitet. Die Folgen sind Verwirrung (1-2), Halluzinationen (3-4) und Wahnsinn (5-6).
+
+Charakterbogen: Ergänze auf dem Zustandsbogen zwei weitere Felder für Wundschwellen und beschrifte alle drei mit /Körper/, /Motivation/ und /Verstand/.
+
+* Kampf
+
+#+begin_comment
+[[id:3c7f377f-17bd-40b0-aa75-6a60dc39f9db][Reihenfolge der Beteiligten]], [[id:746303d6-6a7f-4176-b53f-99082121dd6f][Initiative]]
+#+end_comment
+
+*Initiative:* Die Reihenfolge der Beteiligten in einer Kampfrunde oder zu Beginn des Kampfes wird durch den Wert der Fertigkeit /Wahrnehmung/ bestimmt.
+
+#+begin_comment
+[[id:7159dc0f-f646-4fc0-a21a-2888a595e29b][Normalschaden]]
+#+end_comment
+
+*Normalschaden:* Im Nahkampf erhalten die Kontrahenten, unabhängig vom Ausgang der Kampfprobe, Verletzungen, den sogn. /Normalschaden/. Die Höhe des Normalschadens beträgt gegen Bewaffnete 2 Punkte oder 1W3 Punkte, gegen Unbewaffnete einen Punkt. Der Effekt wird zum Normalschaden des Unterlegenen addiert und erzeugt eine gemeinsame Wunde.
+
+#+begin_comment
+[[id:9ac7becc-4ad5-428d-b935-bb7b1fe10169][Verteilung Effekt bei Normalschaden durch Überlegenen]]
+#+end_comment
+
+Der Überlegene darf den Effekt ganz oder teilweise dazu verwenden, um seinen eigenen Normalschaden zu reduzieren, anstatt seinen Gegner zu verletzen.
+
+#+begin_comment
+[[id:eb03fc80-950c-4950-89ef-c9651bf2e29d][Manöver durch Effekt]]
+#+end_comment
+
+*Manöver durch Effekt:* Der Überlegene darf den Effekt aus der Kampfprobe ganz oder teilweise dazu einsetzen, um ein Manöver durchzuführen, anstatt seinen Gegner zu verletzen.
+
+Beispiele für Manöver und wieviele Effektpunkte sie erfordern:
+
+- Zurückdrängen: 2
+- Wegstoßen: 2
+- Entwaffnen: 3
+- Umwerfen: 3
+- KO-Schlag: 5
+
+#+begin_comment
+[[id:f86cd7f7-6c82-4c56-acc9-c59d3fb9f87a][Reduzierter Fertigkeitswert auf /Kämpfen/ für Unbewaffnete]]
+#+end_comment
+
+*Halbierter Fertigkeitswert für Unbewaffnete auf /Kämpfen/:* Wer unbewaffnet kämpft, dessen Fertigkeitswert auf /Kämpfen/ wird um 2 Punkte reduziert.
+
+#+begin_comment
+[[id:a328efb9-2b4e-4138-aa51-cc0368afe8bc][Fernkämpfer im Nahkampf]]
+#+end_comment
+
+*Fernkämpfer im Nahkampf:* Ist ein Fernkämpfer in einer Kampfsituation in Nahkampfreichweite, gilt die Situation als Nahkampf. Er kann dann auf Schießen ⌀ Kämpfen proben mit einer Beeinträchtigung -1, weil er keine geeignete Nahkampfwaffe besitzt, oder auf Schießen ⌀ Ausweichen mit einer Beeinträchtigung -2, weil Ausweichen im Nahkampf nicht leicht ist. Der obligatorischen Malus für Fernkämpfer von 2 Punkte entfällt jedoch, da er Schaden wie jeder andere einstecken kann.
+
+#+begin_comment
+[[id:9072a28b-b2fe-4269-bfc8-f3d01c5bce68][Multitasking durch generelle Erschwernis der Einzelproben]]
+#+end_comment
+
+*A-Priori-Multitasking:* Jeder zusätzliche Gegner über den ersten hinaus erschwert *alle* Konfliktproben des Einzelkämpfers in dieser Kampfrunde um *einen* Punkt. Die Regel sollte verwendet werden, wenn der Kämpfer sich auf beide Gegner einstellen konnte.
+
+#+begin_comment
+[[id:8234962e-594a-4792-8e0a-dd3f99f08107][Multitasking durch sukzessive Erschwernis der Einzelproben]]
+#+end_comment
+
+*A-Posterori-Multitasking:* Jeder weitere Konflikt nach dem ersten, den ein Kämpfer in einer Kampfrunde auszutragen hat, wird erschwert. Die Erschwernis steigt mit jedem Konflikt um *zwei* Punkte. Die Regel sollte Anwendung finden, wenn der zweite Gegner tatsächlich überraschend auftaucht.
+
+#+begin_comment
+Offene Flanken
+#+end_comment
+
+*Offene Flanken:* Beachte, dass nicht mehr Beteiligte effektiv einen Gegner im Nahkampf bekämpfen können, als dieser offene Flanken bietet (maximal 4).
+
+#+begin_comment
+[[id:de951929-5f4b-422a-9363-083af3fddcac][Vorgaben für Beeinträchtigungen durch Umstände]]
+#+end_comment
+
+*Beeinträchtigungen durch Umstände:*
+
+Hier soll eine Liste gepflegt werden, die Beeinträchtigungen von Kämpfern enthält.
+
+Nahkampf:
+
+- unbewaffnet: 2
+- am Boden: 2
+
+Fernkampf:
+
+- schlechte Umstände: 1-2 (Wind, Stand)
+- Eile (noch nicht schussbereit, Gegner anstürmend): 2
+- Nur ein Versuch: 2
+
+* Magie
+
+#+begin_comment
+[[id:779ebbb4-1d17-4a70-a656-820b1c30f1b9][Schicksalspunkte für Magieeinsatz]]
+#+end_comment
+
+*Schicksalspunkte für Magieeinsatz:* Jeder Magieeinsatz erfordert (eventuell zusätzlich zur Probe) den Einsatz einen Schicksalspunktes. Ist die Magiefertigkeit mit einem Faktor gewichtet, wird nur ein Teil eines Schicksalspunktes verbraucht: 1/2 Punkt bei Faktor 2; 1/4 Punkt bei Faktor 3; gar keiner bei Faktor 4.

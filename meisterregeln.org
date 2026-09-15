@@ -1,0 +1,182 @@
+:PROPERTIES:
+:CREATED:  2026-08-28
+:ID:       fe75b3da-6952-4344-922e-1c8bd2f4f546
+:END:
+#+title: Meisterregeln
+
+Diese Regeln sind eine Ideensammlung, die kompatibel zu den Grund- und Zusatzregeln für Dunkle Zeiten sind. Sie bieten sich an, um besondere Situationen abzubilden.
+
+* Spielkonzept
+#+begin_comment
+[[id:dc51259b-325c-438f-b73c-4a5eb68cf895][Gemeinsame Spielleitung]]
+[[id:fb902003-9575-406c-b773-17a75c030217][Zeitliche Einteilung]]
+#+end_comment
+
+*Gemeinsame Spielleitung:* Alle Mitspieler sind in der gemeinsamen Verantwortung der Spielleitung. (Alternative zur /Hybriden Spielleitung/)
+
+*Zeitliche Einteilung:* Das länger andauernde Spiel wird in /Proben/, /Szenen/, /Spielabende/, /Abenteuer/, /Kampagnen/ und /Setting/ eingeteilt.
+
+* Charaktere
+#+begin_comment
+[[id:4802f5ca-d982-4e5d-a0a3-c0dcbb9c1fb9][Tricks]]
+[[id:1b09e426-ad4e-4065-95cc-0544766f8f42][Tricks durch Schicksalspunkte]]
+[[id:31fdd6c4-e1b2-4239-9942-095d9daffc4c][Alternative Teilbereiche]]
+#+end_comment
+
+*Tricks:* Tricks sind charakter-spezifische Spezialregeln, die durch Erfahrungspunkte bezahlt werden. Dadurch können Regelausnahmen festgelegt werden (z.B. dass ein waffenlos Kämpfender keinen Malus erhält). Der Einsatz von Tricks erfordert einen Schicksalspunkt.
+
+*Alternative Spezialgebiete:* Fertigkeiten lassen eine alternative Einteilung in Teilbereiche zu, in denen ein Charakter eine zusätzliche Stärke besitzen kann (allerdings weiterhin nur eine Schwäche pro Fertigkeit). Beispiel ist die Einteilung von /Kämpfen/ nach Manöver (siehe unten).
+
+* Inventar
+
+*Veränderliches Hab & Gut:* Noch in Arbeit.
+
+* Proben
+#+begin_comment
+[[id:170af805-985f-47cb-9ae5-984981960972][Subjektivistische Schwierigkeit]]
+[[id:876551cd-af58-450e-9ab0-9229f171725d][Objektivistische Schwierigkeit]]
+[[id:c1d8e0d5-11c4-42f6-8c91-592d8fd33e2f][Verdeckte Proben]]
+[[id:50a6feb7-6285-4569-a9d2-2cfea8a03702][Güteproben]]
+[[id:f2dccd86-1714-415c-9bad-2dccacd0efc3][Großer Haken]]
+[[id:9766c6be-3cae-4df3-9b7f-d33ada81f86e][Apfelschussproben]]
+[[id:8fe130c8-32d9-4118-8b26-56b2765de64c][Verschmelzung von Fertigkeitswerten: /Gemeinsam sind wir stark/ ("Summe")]]
+[[id:433b9a0d-db45-43e3-b6a8-bd930f2aec5f][Verschmelzung von Fertigkeitswerten: /Unterstützung/ mit Anteil]]
+[[id:a81019c4-851d-4808-b2ef-4123428b546d][Statistikverzerrende Würfelwürfe]]
+#+end_comment
+
+*Subjektivistische und objektivistische Schwierigkeit:*
+
+Etwas Theorie: Bei der Festlegung einer Schwierigkeit für eine Probe werden zwei Ansätze unterschieden (beide kommen in unserem Spiel auch in Mischformen zum Einsatz):
+
+- Die Subjektivistische Schwierigkeit bezieht sich auschließlich auf die beschriebene Situation und den ausführenden Charakter. Sie ergibt sich aus dem Gesamteindruck der Situation und der Vorstellung der SL. Modifikatoren kommen bei diesem Ansatz streng genommen nicht zum Einsatz.
+- Die objektivistische Schwierigkeit bezieht sich auf die abstrakte Aufgabe. Veränderungen durch Situation oder Akteur werden durch /Probenmodifikatoren/ ausgedrückt. Auf diese Weise lässt sich ein Katalog von Schwierigkeiten und Modifikatoren erstellen.
+
+*Verdeckte Proben:* Bei verdeckten Proben, behält die Spielleitung die Bedingungen für das Bestehen der Probe für sich und teilt dem Spieler auch nicht mit, ob die Probe bestanden war.
+
+*Güteproben* sind Proben ohne klare Trennung zwischen Erfolg und Misserfolg, bei denen das Ergebnis von der Güte der Probe abhängt. Beispiel dafür ist die Probe zur Heilung von Wunden.
+
+*Großer Haken:* Ist eine Probe misslungen, kann sie auch /mit großen Haken gelungen/ interpretiert werden. Dem Erfolg steht dann ein dadurch ausgelöstes größeres Problem gegenüber. Das ist ziemlich praktisch, wenn die SL sich nicht durch misslingende Proben die Story versauen lassen will.
+
+*Apfelschussproben* sind Proben, bei denen es zwischen dem Erfolgs- und dem Misserfolgsbereich einen /fatalen Bereich/ gibt. Der fatale Bereich beginnt dort, wo die Probe nicht mehr bestanden ist und endet nach Wahl der Spielleitung etwas tiefer. Beispiel dafür ist der weiter unten beschriebene /Schuss ins Kampfgetümmel/.
+
+*Verschmelzung von Fertigkeitswerten durch Summe:* In bestimmten Situationen kann es sinnvoll sein, (verschiedene) Fertigkeiten (von verschiedenen Charakteren) zu summieren und dann eine Probe darauf abzulegen (Beispiel: Tauziehen).
+
+*Verschmelzung von Fertigkeiten zur Unterstützung:*
+
+Um Proben abzubilden, bei denen ein Charakter durch einen oder mehrere andere Charaktere /unterstützt/ wird, oder in denen er seine Probe durch eine andere Fertigkeit unterstützen kann, wird zuerst einer der Fertigkeitswerte zum /Leitwert/ erklärt und dann ein abgerundeter Anteil (Hälfte, Drittel oder Viertel) der Summer der anderen Fertigkeitswerte dazu addiert.
+
+Der Leitwert ergibt sich je nach Umständen entweder aus der primär geprobten Fertigkeit bzw. dem primär handelnden Charakter. Oder er entspricht dem höchsten Fertigkeitswert.
+
+Hinweis: Die Regel ist bereits in spezieller Form in den Zusatzregeln als /Proben mit unterstützenden Fertigkeiten/ enthalten. Weiter unten nimmt außerdem die Regel zu /Gespannen/ darauf Bezug.
+
+*Statistikverzerrende Extrawürfel:* Durch Hinzufügen weiterer Würfel in einer Probe kann die Statistik verzerrt werden. Es zählt dann nur der höchste oder niedrigste Wurf. Sowas bietet sich an, um übernatürliche Effekte zu modellieren. Spooky 👻!
+
+* Gesundheit
+#+begin_comment
+[[id:6f3cc120-5d34-42a4-8a18-730c54acd2fd][Resistenzschwellen]]
+[[id:ae4eb605-27f8-475e-aabe-ead3c6a2c8e5][Automatische Regeneration]]
+[[id:fe57d24f-9ba8-470f-9bb8-85cea53f24e3][Moral]]
+#+end_comment
+
+*Resistenzschwellen:* Aus vielen Fertigkeiten resultiert eine Art Widerstandskraft gegen bestimmte gegnerische Aktionen. Um diese Resistenz nicht über eine zusätzliche Probe abbilden zu müssen und weitere Möglichkeiten der Gestaltung zu haben, wird jeder Fertigkeit (oder jedem Spezialgebiet) eine Resistenzschwelle zugeordnet. Die Resistenzschwelle beträgt 1/4 des Fertigkeitswertes. Sie wird exakt als Bruch, also nicht gerundet, angegeben. /Hinweis: Die Wundschwelle ist eine Resistenzschwelle auf die Fertigkeit Kraft (Wundresistenz). Weitere Beispiele weiter unten beim Erfolg von Manövern./
+
+*Automatische Regeneration:* Wunden regenerieren sich automatisch in jeder Ruhephase, Szene oder Session vollständig oder teilweise. Nach jeder Ruhephase sinkt die Stufe einer Wunde um einen Punkt oder die Gesundheit steigt um einen Punkt. Das macht Sinn, falls einem das mit den Heilproben zu kompliziert ist.
+
+*Moral:* Moralischer Verfall wird durch /Moral/ als geistige Verfassung modelliert, analog zur /Motivation als geistigen Verfassung/. Folgen sinkender Moral sind Gleichgültigkeit (1-2), Grausamkeit (3-4) und Sadismus (5-6). Die Wundschwelle der Moral wird durch /Empathie/ definiert.
+
+* Kampf
+
+#+begin_comment
+[[id:373dc3bf-be8a-4534-a18c-d34585172e1d][Gewürfelte Verletzung]]
+[[id:cd50c50f-7058-4009-acce-f31ad5d18321][Modifikation des Normalschadens durch Kontrahenten]]
+[[id:031d1dd6-9999-4d54-8d68-a2ecbfb172eb][Manöver-Erfolg durch Resistenzschwelle]]
+[[id:7f0dacf5-5201-4705-b085-21da93b88072][Manöverwaffen durch veränderte Effektkosten]]
+[[id:12ab5b4e-4ca5-447d-8251-1ce3f78d6995][Gespanne durch Verschmelzung nach Leitwert]]
+[[id:49726767-adab-48c3-987d-a8e86ea4647a][Fernkampf Duell als vergleichende Probe]] - trivial
+[[id:00b537a4-016b-4ce4-91ed-df8a6fd325a2][Fernkampf-Schuss gegen Schwierigkeit]] - trivial
+[[id:8f4a80ef-dd06-44cb-b89e-da43a45d48fe][Fernkampf-Schuss ins Kampfgetümmel als Apfelschussprobe]]
+[[id:0f56ba38-a99d-4793-bedf-f94814451bc0][Manöver als alternative Teilbereiche]]
+#+end_comment
+
+*Gewürfelte Verletzung:* Um die Stufe der Verletzung zu bestimmen, die aus einem Konflikt resultiert, wird mit W6 (oder W3 waffenlos) gewürfelt anstatt den Effekt der Probe zu verwenden. Zum Beispiel, wenn es gar keine klassische Kampfprobe gab.
+
+*Modifikation des Normalschadens durch Kontrahenten:* Der Normalschaden kann durch die Kontrahenten modifiziert werden. Er wird immer für beide Seiten gleichzeitig modifiziert, der aggressivere Kontrahent gibt den Ausschlag 😈. (Das ist sehr experimentell!)
+
+*Manöver-Erfolg durch Resistenzschwelle:*
+
+Ob ein Manöver Erfolg hat, ist davon abhängig, ob der investierte Effekt eine dem Manöver zugeordnete Resistenzschwelle (siehe oben) häufig genug überschreitet.
+
+Beispiele:
+
+- Zurückdrängen/Vorbeistürmen: Einfache Resistenzschwelle für /Wille (Mut)/
+- Umwerfen: Doppelte Resistenzschwelle für /Gewandheit (Balance)/ oder /Kraft (Körperkraft)/
+- Entwaffnen: Doppelte Resistenzschwelle für /Kämpfen/
+- KO-Schlag: Dreifache Resistenzschwelle für /Kraft (Körperkraft)/
+
+*Manöverwaffen durch veränderte Effektkosten:* Die Idee ist, dass es Waffen gibt, die zwar reduzierten Verletzungseffekt haben, für die bestimmte Manöver jedoch weniger Effekt erfordern. Beispielsweise würde für einen Kampfstab der Verletzungseffekt um einen Punkt reduziert, jedoch der Effekt für KO-Schlag um einen Punkt erhöht werden.
+
+*Gespanne als Proben mit Unterstützung:*
+
+Wirken in einem Konflikt mehrere Beteiligte im Team zusammen, können sie zu einem /Gespann/ zusammengefasst werden (das ist komplex, aber praktisch für massenweise NSCs). Ihre Probenergebnisse werden dann nach /Verschmelzung von Fertigkeiten zur Unterstützung/ (siehe oben) miteinander verschmolzen. Entweder sind alle gemeinsam unterlegen oder überlegen. Den Leitwert bildet die höchste Fertigkeit des Teams. Die Fertigkeitswerte der Helfer werden geviertelt und abgerundet und zum Leitwert addiert. Dann wird (einmal!) gewürfelt und wie üblich der Effekt durch Vergleich mit der Gegenseite bestimmt.
+
+Beispiel: 3 Goblins mit Anführer (Kämpfen 6, die anderen 5) kämpfen gegen einen Elfen (Kämpfen 9). Die Goblins werden zu einem Gespann zusammengefasst, damit nicht soviel gewürfelt werden muss. Leitwert ist 6, die anderen beiden können jeweils einen Punkt dazu addieren. Das Gespann hat also Kämpfen 8.
+
+Der Normalschaden wird durch die Teamstärke der überzähligen Seite bestimmt und betrifft beide Seiten. Beispiel: Im Fall der Goblins und dem Elfen erleidet jeder der Goblins einfachen Normalschaden (2 Verletzungspunkte), während der Elf dreifachen Normalschaden einstecken muss (also 6 Verletzungspunkte).
+
+Der Effekt bezieht sich ebenso auf jeden Kämpfer der überzähligen Seite. Beispiel: Hat der Elf einen Effekt von 2 gegenüber den Goblins erzielt, stehen ihm 6 Punkte zur Verfügung, die er z.B. in Verletzungen für die Goblins umwandeln, oder seinen Normalschaden damit reduzieren kann. Erreichen dagegen die Goblins einen Effekt von 1 Punkt gegenüber dem Elf, dürfen sie ihm eine Verletzung der Stufe 3 zufügen (zusätzlich zu dessen Normalschaden). /(Kommentar: ganz fair ist das nicht, aber dem armen Elfen geht's so schon an den Kragen.)/
+
+Die Verletzungen für die unterzählige Seite dürfen auf mehrere Wunden (ganzzahlig) aufgeteilt werden (auf <Anzahl Überzählige>/<Anzahl Unterzählige> abgerundet). Bespiel: Muss der Elf 4 Verletzungs-Punkte einstecken, darf er sie auf drei Wunden verteilen (2, 1 und 1). Wenn seine Wundschwelle höher ist als 1 erleidet er also nur eine Wunde der Stufe 1.
+
+Die Verletzungen für die überzählige Seite, müssen auf Wunden für alle Mitglieder des Gespanns aufgeteilt werden (jedoch nicht unbedingt gleichmäßig). Beispiel: Der Elf darf seine 6 Effekt Punkte so aufteilen: je 1 Verletzungs-Punkt für zwei der Goblins der der dritte bekommt 4 Punkte ab.
+
+*Fernkampf-Schuss ins Kampfgetümmel als Apfelschussprobe:* Man legt eine Probe gegen Schwierigkeit zugrunde und erschwert sie aufgrund des Getümmels. Ist sie knapp nicht bestanden, wurde ein anderes Ziel getroffen. Die Stufe der Verletzung und das Opfer werden in dem Fall erwürfelt (oder aus den Umständen bestimmt). Getümmel-Modifikator zwischen -2 und -4. Fataler Bereich: -1 und -2.
+
+*Manöver als Spezialgebiete:* Die Fertigkeit /Kämpfen/ wird alternativ nach Manövern eingeteilt (in denen ein Charakter eine zusätzliche Stärke besitzen kann). Beispiele: Verletzen, KO-Schlag, Schnellschuss, Entwaffnen, ...
+
+* Magie
+#+begin_comment
+[[id:166ce5e8-d96f-4688-9a50-107d0c2d10e6][Trennung von Zaubermagie und Göttermagie]]
+[[id:faf4431b-0738-4a27-9954-5ea093fcfc9e][Multiple Magiefertigkeiten]]
+[[id:b6b34b68-2683-4ecd-85b9-21327790af0c][Spruchsammlung]]
+[[id:aac50351-45a5-46a1-b5fc-3829b18e8da7][Freie Spruchsammlung]]
+[[id:2f68547d-799c-4090-ab9c-d385b1286679][Beschränkung auf erlernte Sprüche]]
+[[id:ad7ce854-08fd-44bc-86ad-53a168ea1db2][Detaillierte Wirkbeschreibung der Spruchsammlung]]
+[[id:0624d0b0-96ed-4250-b268-d511a6239234][Mana]]
+[[id:150be05c-567f-4809-a533-cf84fbea7d63][Mana analog zu Wunden]]
+[[id:ae156be8-4e46-4d82-8821-601756fd5512][Verbrauch gewirkter Zauber]]
+#+end_comment
+
+*Unterscheidung von Zaubermagie und Göttermagie:* Zauberei kann nach anderen Regeln behandelt werden als Liturgien. Liturgieproben sind z.B. nicht randomisiert, um das Fehlen chaotischer Elemente darzustellen.
+
+*Multiple Magiefertigkeiten:* Anstatt einer einzelnen gewichteten Fertigkeit für Magie, könnte die Fertigkeit auch aufgeteilt werden in mehrere Bereiche. Für andere Regeln zählt die Gesamtgewichtung aller Magiefertigkeiten als Gewichtung und die Summe der Werte aller Magiefertigkeiten als Wert der Fertigkeit. /(Kommentar: das ist gehupft wie gesprungen)/
+
+*Freie Spruchsammlung:* Zauberei basiert auf einer freien Spruchsammlung. Jeder Spruch enthält außer der Wirkung auch eine Angabe der Grundschwierigkeit. Wird der Zauber gewirkt kommt zur Grundschwierigkeit noch eine Umstandschwierigkeit dazu. Der Spieler gestaltet die Sprüche des eigenen Charakters selbst und holt sich die Bestätigung der Gruppe ein. Die Regel dient nicht dazu, den Einsatz von Magie zu beschränken, sondern um die Spieler dazu zu bringen, sich kreativ mit ihrer Magie zu beschäftigen.
+
+*Beschränkung auf erlernte Sprüche:*
+
+Sowas sollte nur Einsatz finden, falls die Zauberei aus dem Ruder läuft.
+
+Der Zauberer muss sich auf eine Sammlung erlernter Sprüche beschränken. Die verfügbaren Spruchplätze sind abhängig von der Gewichtung der Magiefertigkeit und dem Fertigkeitswert über dem Grundwert:
+
+| Gewichtung | Spruchplätze pro | Charakter             |
+|            | Fertigkeitspunkt |                       |
+|------------+------------------+-----------------------|
+|          1 |                1 | Übernatürlich Begabte |
+|          2 |                3 | Halbzauberer          |
+|          3 |                7 | Vollzauberer          |
+|          4 |                ∞ | magische Wesen        |
+
+Freie Spruchplätze können jederzeit belegt werden. Eine Neubelegung ist nur bei Veränderung des Fertigkeitswertes und zwischen den Abenteuern möglich.
+
+Für Götterwirken gilt eine einfachere Regel: doppelt so viele Spruchplätze wie der Fertigkeitswert beträgt.
+
+*Detaillierte Spruchbeschreibung:* Beschreibe so detailliert wie möglich! Die Kosten bzw. die Schwierigkeit eines detailliert beschriebenen Zaubers sollten niedrig sein, wenn er in genau dieser Form gewirkt wird. Jeder detailliert beschriebene Zauber kann abgewandelt und verallgemeinert werden, wobei dann die Kosten und/oder die Schwierigkeit steigt.
+
+*Klassisches Mana:* Zaubern resultiert in sinkendem /Mana/. Sinkt das Mana auf Null, kann der Zauberer nicht mehr zaubern, oder er erhält Konsequenzen. Die Menge des verfügbaren Manas entspricht der Menge eingesetzter Erfahrungspunkte auf die Magiefertigkeit(en). Mana regeneriert sich wieder nach einiger Zeit. Regeneration eines Zauberers: 1 Punkt pro Nacht. Regeneration eines Geweihten: 1 Punkt pro Tag im Gebet.
+
+*Mana durch Wunden:* Manaverbrauch wird analog zu Verletzungen behandelt und erzeugt Wunden gemäß einer Wundschwelle, die durch die Höhe der Magiefertigkeit (mal Gewichtung) festgelegt wird. Die Mana-Wunden erschweren die weitere Wirkung von Magie.
+
+*Verbrauch gewirkter Zauber:* Zauber müssen während einer Ruhephase vorbereitet werden und werden beim Wirken /verbraucht/. Ein Zauber kann mehrfach vorbereitet werden, wodurch er mehrfach gewirkt werden kann. Es können so viele Zauber vorbereitet werden, wie Erfahrungspunkte auf die Magiefertigkeit(en) eingesetzt wurden.
+
+
+

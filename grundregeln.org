@@ -1,0 +1,473 @@
+:PROPERTIES:
+:ID:       9a506c2e-fa93-4554-97f4-88429694dd86
+:CREATED:  2025-12-27
+:END:
+#+title: Grundregeln
+
+Neubearbeitung der Grundregeln für Dunkle Zeiten.
+
+* Spielkonzept
+
+#+begin_comment
+[[id:2952bbc0-0af4-4261-a658-364a82980240][Abenteuer-Rollenspiel]]
+#+end_comment
+
+*Abenteuer-Rollenspiel:* Die Spieler schlüpfen in die Rolle fiktiver Charaktere, um ein Abenteuer zu erleben.
+
+#+begin_comment
+[[id:6592d5a0-b687-43bf-b659-c1e6e6b28db7][Spielleitung]]
+#+end_comment
+
+*Spielleitung:*
+
+Einer der Mitspieler bekommt die Rolle der /Spielleitung/. Die Spielleitung ...
+
+- ... gestaltet die erlebte Spielwelt
+- ... übernimmt die Rolle der NSCs
+- ... legt die Regeln aus (und verlangt und gestaltet Proben)
+- ... ist für das Voranschreiten der Story verantwortlich
+- ... moderiert die Runde.
+
+#+begin_comment
+[[id:c15a8ebd-2d52-4e03-8523-b244bb55e944][Allgemeines Vetorecht]]
+#+end_comment
+
+*Vetorecht:* Jeder Mitspieler besitzt sowohl zu den Regeln und deren Auslegung als auch zur Spielhandlung ein allgemeines Vetorecht.
+
+#+begin_comment
+[[id:c9fc722c-2737-44f2-ad73-dba86a2a2f5a][Aus dem Bauch heraus]]
+#+end_comment
+
+*Bauchentscheidung:* Wenn etwas unklar ist, wird aus dem Bauch heraus entschieden.
+
+* Charaktere
+
+#+begin_comment
+[[id:58fedeb9-7705-49db-9fa7-6aab02021589][Profil]]
+#+end_comment
+
+*Profil:*
+
+Jeder Charakter wird durch etwa eine Handvoll Stichpunkte oder kurze Sätze beschrieben: sein /Profil/.
+
+Berücksichtige folgende Bereiche:
+
+- Hintergrund und bisheriger Lebensweg
+- Persönlichkeit
+- Fähigkeiten
+- Erscheinung
+- gesellschaftliches Umfeld
+
+Im Laufe des Spiels kannst du das Profil des Charakters verfeinern oder ändern, wenn sich das Wesen deines Charakters im Spiel verändert.
+
+#+begin_comment
+Dilemma
+#+end_comment
+
+*Dilemma:* Dein Charakter sollte mindestens eine Schwäche haben, die ihn immer wieder in Probleme bringt. Das /Dilemma/ kann eine Charaktereigenschaft sein, ein Feind, ein Fluch oder unerreichbares Ziel. Das Dilemma gehört zu deinem Profil und wird dort aufgeschrieben.
+
+#+begin_comment
+[[id:47e57df2-595c-4278-aacc-1b9081035078][Fertigkeiten]]
+[[id:80a479bf-0b11-4d12-8c11-b9d367d6ce2c][Vorgegebene Fertigkeiten]]
+[[id:f5a368a7-43f0-4cd1-ace8-35e919e978e6][Fertigkeits-Domänen]]
+#+end_comment
+
+*Fertigkeiten:* Die /Fertigkeiten/ dienen dazu, das Profil des Charakters, insbesondere seine Fähigkeiten, auf Zahlenwerte abzubilden, auf die Proben gewürfelt werden können. Es gibt eine vorgefertigte Liste von Fertigkeiten, auf die Punkte verteilt werden. Du findest sie in der Liste weiter unten.
+
+#+begin_comment
+[[id:f5a368a7-43f0-4cd1-ace8-35e919e978e6][Fertigkeits-Domänen]]
+#+end_comment
+
+*Domänen:* Die Fertigkeiten werden in fünf /Domänen/ eingeteilt: /Stellung/, /Geist/, /Sozial/, /Körper/ und /Künste/.
+
+#+begin_comment
+[[id:d9606d58-b8e9-4e07-8ae7-dd123655d868][Teilbereiche einer Fertigkeit]]
+#+end_comment
+
+*Spezialgebiete:* Die Fertigkeiten lassen sich in Spezialgebiete unterteilen, die gleichzeitig ihre Verwendung veranschaulichen. Sie sind in der Liste der Fertigkeiten in Klammern angegeben.
+
+#+begin_comment
+[[id:71977e59-0edf-48f0-ad51-1ef7cfef5388][Freie Fertigkeiten]]
+#+end_comment
+
+*Freie Fertigkeiten:* Es können Ferigkeiten frei erfunden werden, die in die Domäne /Künste/ wandern.
+
+#+begin_comment
+[[id:e1110165-af63-4509-819d-a1ca19e2c4cc][Grundwert von Fertigkeiten]]
+#+end_comment
+
+*Grundwert:* Gesunde Erwachsene haben in jeder Fertigkeit einen Grundwert von 4.
+
+#+begin_comment
+[[id:ef790e9d-db88-4013-8869-35c19265a229][Erfahrungspunkte]], [[id:8aa2c43d-765e-43c7-9b6f-a54ef1685515][Initiale Fertigkeitswerte durch Erfahrungspunkte]]
+#+end_comment
+
+*Erfahrungspunkte:*
+
+Um ihren Grundwert erhöhen zu können, erhalten die Charaktere /Erfahrungspunkte/, die sie eins zu eins in Fertigkeitspunkte verwandeln können.
+
+Bei der Erstellung des Charakters erhält jeder 21 Erfahrungspunkte (/Generierungspunkte/), um die Fertigkeiten individuell zu gestalten. Nach jedem Spielabend erhalten die Charaktere ein bis zwei Erfahrungspunkte dazu.
+
+#+begin_comment
+[[id:9f663c68-3cfd-42a3-a84a-811e25fedf0e][Fertigkeiten unter dem Grundwert]]
+#+end_comment
+
+*Fertigkeiten unter dem Grundwert:* Bei der Erstellung des Charakters dürfen Fertigkeiten auch mit negativen Erfahrungspunkten belegt werden, wodurch sie unter den Grundwert fallen, der für gesunde Erwachsene gilt. Dies muss jedoch im Profil eine Begründung haben und dürfen nicht die Domäne /Künste/ betreffen. Diese Punkte können dann zusätzlich auf andere Fertigkeiten verteilt werden.
+
+#+begin_comment
+[[id:a906d476-a9e9-46ad-b6b6-988ed1e5fe3d][Minimalwert von Fertigkeiten]]
+#+end_comment
+
+*Minimalwert von Fertigkeiten:* Für jede Fertigkeit stellt der Minimalwert Null die natürliche untere Grenze dar, bei der man absolut handlungsunfähig ist und keine Probe abgelegt werden kann.
+
+#+begin_comment
+[[id:7a28b798-6ab7-48ea-8e03-5f79afff7829][Säulenregel]]
+#+end_comment
+
+*Säulenregel:* Für die verteilten Erfahrungspunkte muss die /Säulenregel/ erfüllt bleiben: Für jede Fertigkeit, auf die Punkte verteilt worden sind, muss es mindestens eine andere Fertigkeit geben, auf die ein Punkt weniger verteilt worden ist (z.B. Wille 5, Mut 4, Empathie 3, Kämpfen 2, Wissen 1).
+
+#+begin_comment
+[[id:9499b5ca-769c-47e4-8996-6491b49bec9d][Stärken und Schwächen]]
+#+end_comment
+
+*Stärken und Schwächen:*
+
+Zur individuellen Ausgestaltung der Fertigkeiten können /Stärken/ und /Schwächen/ verwendet werden. Sie beziehen sich auf eine Spezialgebiet einer Fertigkeit und verstärken oder vermindern deren Wert. Jede Fertigkeit darf nur eine Stärke und eine Schwäche tragen. Stärken und Schwächen erfordern eine Begründung im Profil.
+
+Eine /Stärke/ reduziert den Wert einer Fertigkeit um einen Punkt und gibt im Spezialgebiet dafür zwei Punkte Bonus. Fertigkeiten mit Stärke zählen für die Säulenregel als einen Punkt teurer als ihr Wert beträgt (und damit soviel, wie Erfahrungspunkte eingesetzt wurden).
+
+Eine /Schwäche/ erhöht den Wert der Fertigkeit insgesamt, ohne dass ein Fertigkeitspunkt eingesetzt wurde, jedoch ist der Wert der Fertigkeit im Spezialgebiet um vier Punkte reduziert. Fertigkeiten mit Schwäche zählen für die Säulenregel als einen Punkt teurer als hier Erfahrungspunkte eingesetzt wurden (und damit soviel, wie ihr Wert beträgt).
+
+#+begin_comment
+[[id:b6e3dbeb-1824-4137-8ff2-e4b1c40eba63][Gewichtete Fertigkeiten]]
+#+end_comment
+
+*Gewichtete Fertigkeiten:* Frei erfundene Fertigkeiten können einen /Gewichtungsfaktor/ erhalten, der 2 oder höher ist. Die Fertigkeit erfordert dann ein entsprechendes Vielfaches an Erfahrungspunkten, um gesteigert werden zu können. Das ist sinnvoll für Fertigkeiten, die dem Charakter sehr viel Macht geben und daher verteuert werden sollten, beispielsweise magische Fertigkeiten.
+
+#+begin_comment
+Chronik
+#+end_comment
+
+*Chronik:* Jeder Spieler führt für seinen Charakter eine /Chronik/, in der jeden Spielabend und die dabei eventuell erhaltenen Erfahrungspunkte einträgt. Der erste Eintrag wird bei Erstellung des Charakters gemacht. Trage hier die Generierungspunkte ein, mit denen der Charakter erstellt wurde.
+
+** Charakterbogen
+
+Der Charakterbogen eines Spielercharakters sollte enthalten:
+
+*Profilbogen:*
+
+- *Name:* Eine Zeile für den Namen des Charakters
+- *Profil:* Platz für einen ca. 10-zeiligen Text
+- *Chronik:* Tabelle mit ca. 10 Zeilen und Spalten für
+  - (irdisches) *Datum* der Session
+  - erhaltene *Erfahrung*spunkte
+  - den Namen der *Queste*.
+  - Mache den ersten Eintrag für die Erstellung des Charakters!
+- *Erfahrung:* Eine Zeile mit Feldern für
+  - *Gesammelt*e Erfahrungspunkte
+  - *Vergeben*e Erfahrungspunkte
+  - *Frei*e Erfahrungspunkte
+
+*Zustandsbogen:*
+
+- *Ausrüstung:* Platz für einen ca. 5 zeiligen Text
+- Ein Feld für die *Wundschwelle*
+- *Beeinträchtigungen:* Tabelle mit ca. 5 Zeilen mit Spalten für
+  - (irdisches) *Datum*
+  - *Beschreibung* in Worten
+  - betroffene *Domäne*
+  - *Stufe* der Beeinträchtigung (Malus/Bonus)
+
+*Fertigkeitsbogen:*
+
+- Tabelle mit ca. 25 Zeilen mit Spalten für
+  - Name der *Fertigkeit*
+  - eingesetzte Erfahrungspunkte (*EP*)
+  - resultierender Fertigkeitswert (*FW)*
+  - *Bemerkungen* (Stärken, Schwächen, Gewichtung)
+
+*Magiebogen:*
+
+- *Tradition:* Platz für einen ca. 10 zeiligen Text
+- Eine Zeile mit Feldern für die magische(n) *Fertigkeit*(en) und deren Gewichtung (in Klammern)
+- *Zauber:* Tabelle mit ca. 15 Zeilen mit Spalten für
+  - *Beschreibung* gewirkter Zauber
+  - *Schwierigkeit* der Probe
+
+* Fertigkeiten
+
+** Status
+
+- Stellung (Stand, Ansehen, Rang, Benehmen; 0: Aussätziger/Verurteilter, 1: Sklave, 2: Leibeigener/Unmündiger, 3: Bettler, 4: Knecht/Tagelöhner, 5-6: Bauer/Handwerker/Soldat/Händler, 7-9: Gelehrter/Priester/Beamter, ab 10: Adelsränge)
+- Hab & Gut (Ausrüstung, Reichtum, Vorrat)
+- Kontakte (Familie, Freunde, Organisation, Geschäft)
+
+** Geist
+
+- Klugheit (Gedächtnis, Verstand, Argumentieren)
+- Wille (Mut, Geduld, Beherrschtheit, Glaube)
+- Wahrnehmung (Aufmerksamkeit, Sinnesschärfe, Instinkt)
+- Wissen (Mythen, Philosophie, Sprachen, Religion, Magie; ab 5 wird eine Schrift beherrscht)
+
+** Sozial
+
+- Ausstrahlung (Verführen, Einschmeicheln, Beruhigen)
+- Empathie (Menschenkenntnis, Entlarven)
+- Dominanz (Befehlen, Einschüchtern, Provozieren)
+- Täuschen (Lügen, Verstellen, Ablenken)
+
+** Körper
+
+- Kraft (Körperkraft, Gift-, Krankheits-, Wundresistenz)
+- Athletik (Schwimmen, Klettern, Rennen, Springen)
+- Gewandtheit (Reflexe, Balance, Beweglichkeit, Ausweichen)
+- Kämpfen (Waffenlos, Dolch, Schwert, Morgenstern)
+- Werfen (Speer, Wurfwaffe, Wurfhaken, Wurfnetz)
+
+** Künste
+
+- Heilkunst (Wundheilung, Krankheiten, Gifte)
+- Wildnis (Orientierung, Überleben)
+- Unterwelt (Hehlerei, Gassengesetz, Bandenstruktur)
+- Heimlichkeit (Schleichen, Verstecken, Hinterhalt, Unauffälligkeit)
+- Reiten & Fahren (Pferd, Esel, Kutsche, ...)
+- Diebeskunst (Schlösser knacken, Taschendieb, Betrügen)
+- Schießen (Bogen, Schleuder, Pistole)
+- Handwerk (Schmied, Fischer, Stellmacher, ...)
+- Kunst (Musizieren, Erzählen, Lyrik, Tanzen, Malen, ...)
+- Seefahrt (Rudern, Segeln, Navigation)
+
+Weitere Fertigkeiten, die frei erfunden werden können, z.B.:
+
+- Intrige (Diplomatie, Verhandlung)
+- Handel (Krämer, Buchführung, Geldverleiher)
+- Kriegswesen (Taktik, Schwere Waffen)
+
+* Inventar
+
+#+begin_comment
+[[id:e5071bf0-1588-4c6a-a5ec-5fb692720cbb][Fertigkeit Finanzen]], [[id:d9042140-426a-4da4-bfe8-cd573ed10581][Fertigkeit Ausrüstung]]
+#+end_comment
+
+*Fertigkeit /Hab & Gut/:* Diese Fertigkeit repräsentiert die Qualität der Ausrüstung, die finanziellen Mittel und sie stellt die Fähigkeit dar, seine Ausrüstung sorgfältig vorzubereiten und zu pflegen. Über das Geld eines Charakters wird nicht buchgeführt. Muss ein Charakter Geld ausgeben, kann die SL dafür eine Probe verlangen.
+
+#+begin_comment
+[[id:8e35011c-3e30-4c72-9feb-36a863cfcf2f][Implizites Inventar]], [[id:10869d27-9c15-4e1d-b62b-d57dd3b59d03][Obligatorisches Inventar]]
+#+end_comment
+
+*Implizites Inventar:* Die Ausrüstung eines Charakters wird nicht unbedingt explizit aufgeschrieben.
+
+*Obligatorisches Inventar:*
+
+Aufgeschrieben werden sollte sie auf jeden Fall dann, wenn sie von besonderer Wichtigkeit ist. Das betrifft:
+
+- Kleidung und äußere Erscheinung
+- besonders wertvolle oder persönliche Gegenstände
+- außergewöhnliche Gegenstände (selten, magisch, o. ä.)
+- mitgeführte Waffen
+- sehr große Gegenstände (sogenannte Besitztümer, z.B. Kutsche, Pferd)
+- Questgegenstände
+
+#+begin_comment
+[[id:f0fb2e10-8f51-4a34-bf5b-e5a7686aff30][Durch Fertigkeiten implizierte Grundausrüstung]], [[id:80aea339-eaa9-4207-b074-49194cc0603a][Durch Fertigkeiten implizierte Spezialausrüstung]]
+#+end_comment
+
+*Implizite Grund- und Spezialausrüstung:* Ausrüstung, die ein Charakter für seine Probe benötigt (/Grundausrüstung/) oder sie ihm erleichtert (/Spezialausrüstung/), wie etwa Dietriche oder Kletterhaken, wird durch den Fertigkeitswert der betreffenden Probe dargestellt und daher nicht (unbedingt) aufgeschrieben.
+
+#+begin_comment
+[[id:f926e7fb-6088-4905-b2e4-61ccb219720c][Verbrauchsgegenstände durch Fertigkeitsprobe]]
+#+end_comment
+
+*Probe für Verbrauchsgegenstände:* Verbrauchsgegenstände (Pfeile, Essen, ...) werden nicht aufgeschrieben. Wenn fraglich ist, ob der Vorrat alle ist, würfelt man eine Probe auf /Hab & Gut/. Das gleiche gilt für das Vorhandensein von Alltagsausrüstung (Fackeln, Seile, Zunderbox ...).
+
+* Proben
+
+#+begin_comment
+[[id:d3b3be2b-5a0d-439d-b79c-8d683b7bfa6b][Proben]]
+#+end_comment
+
+*Proben:* Damit Aktionen gelingen, bei denen nicht selbstverständlich ist, dass ein Charakter die nötige Fähigkeit besitzt, muss eine /Probe/ bestanden werden. Die Spielleitung legt fest, wann eine Probe erforderlich ist und wie die Probenmechanik aussieht.
+
+#+begin_comment
+[[id:fd00e7a0-75e2-4e90-9270-e2886e0916d2][Fertigkeitsproben]], [[id:8c871fe2-b866-4cf9-a59f-d76db031f4e7][Proben gegen Schwierigkeit]]
+#+end_comment
+
+*Probe gegen Schwierigkeit:* Für jede Probe werden zuerst eine zu probende Fertigkeit und die *Schwierigkeit* der zu lösenden Aufgabe festgelegt. Ist die Schwierigkeit größer als die Fertigkeit, ist die Probe nicht bestanden, ansonsten schon.
+
+#+begin_comment
+[[id:f44cd2d2-6750-4e8d-8ac9-5453bf3ce682][Randomisierung von Proben]], [[id:b75c89ad-25a4-49f0-924c-585111695886][Randomisierung durch verrechnete Würfel W-W]]
+#+end_comment
+
+*Würfelproben:*
+
+Um etwas Glück in die Sache zu bringen, wird aber in der Regel mit zwei 6er Würfeln gewürfelt. Der erste zählt positiv, der zweite negativ („W6-W6“). Die Summe wird auf den Fertigkeitswert addiert. Diese Summe heißt dann *Güte*.
+
+Die Differenz zwischen Fertigkeit (+ Würfel) (= Güte) und Schwierigkeit wird als *Effekt* bezeichnet. Die Probe gilt als gelungen, wenn der Effekt größer oder gleich Null ist.
+
+Einfach ausgedrückt:
+
+*Wenn Fertigkeit + W6 -- W6 ≥ Schwierigkeit ist, dann ist die Probe gelungen.*
+
+Als Richtlinie für die Schwierigkeit können am besten die Fertigkeitswerte der Charaktere dienen. Hier ist außerdem eine Tabelle angegeben, die hilft, Fertigkeitswerte bzw. Schwierigkeitswerte einzuschätzen:
+
+#+caption: Einschätzung von Fertigkeiten und Schwierigkeiten
+| Niveau                         | Fertigkeitswert oder Schwierigkeitswert |
+|--------------------------------+-----------------------------------------|
+| Handlungsunfähig/Nichts zu tun | 0                                       |
+| Jedermann                      | 4                                       |
+| Meister                        | 8                                       |
+| Koryphäe                       | 12                                      |
+
+#+begin_comment
+[[id:c354564a-f8e2-4c02-8f44-41148e7db743][Probenmodifikatoren]], [[id:1757b283-4b4c-4e07-9b9d-7d195c5a5707][Fertigkeitsmodifikatoren]]
+#+end_comment
+
+*Beeinträchtigungen:* Im Laufe des Spiels können aufgrund der Umstände die Fertigkeiten mit Boni oder Mali versehen werden, sogenannten /Beeinträchtigungen/. Es kann auch nur eine einzelne Probe mit einer Beeinträchtigung versehen werden.
+
+#+begin_comment
+[[id:468c3b1f-6ff3-4c52-9f6f-fe8d93eb5018][Vergleichende Proben]]
+#+end_comment
+
+*Vergleichende Würfelproben:* Um Konflikte aller Art zwischen Charakteren darzustellen, werden /vergleichende Proben/ verwendet. Beide Seiten würfeln eine abgewandelte Probe, bei der nur jeweils ein positiver W6 verwendet wird, um eine *Vergleichsgüte* zu erhalten.
+
+*Fertigkeit + W6 (+ Beeinträchtigungen) = Vergleichsgüte*
+
+Der Kontrahent mit der höheren Vergleichsgüte gewinnt den Konflikt, bei Gleichstand herrscht Patt. Die Differenz wird auch hier /Effekt/ genannt (weil es quasi das gleiche ist).
+
+Die beiden Einzelproben einer vergleichenden Probe müssen nicht auf die gleiche Fertigkeit abgelegt werden.
+
+Stellt sich die Situation für einen der beiden Kontrahenten als nachteilig dar, kann seine Probe um eine negative Beeinträchtigung erschwert werden.
+
+* Gesundheit
+
+#+begin_comment
+[[id:cb1b3245-5d00-4208-812b-7f3506d2aa9a][Verletzungen]]
+#+end_comment
+
+*Verletzungen:* Wird ein Charakter verletzt, spricht man von einer /Verletzung/, der eine Schwere oder /Stufe/ zugeordnet wird.
+
+#+begin_comment
+[[id:ba57af56-9fb0-4aed-a287-1e145b00d3fe][Wunden]], [[id:766b4163-473b-4012-95c6-50b9ea6ff8d0][Wundabzüge]], [[id:8ec227d2-f61b-41a8-b486-de66783a251f][Wundabzüge durch Stufe der Wunde]]
+#+end_comment
+
+*Wunden:* Jedem Charakter ist eine *Wundschwelle* zugeordnet, die sich aus /Kraft (Wundresistenz)/ / 4 ergibt und exakt (also nicht gerundet) als Bruch angegeben wird. Übersteigt die Stufe einer Verletzung die Wundschwelle, erhält der Charakter eine /Wunde/ der Stufe 1. Wird die Wundschwelle mehrfach überschritten, entsteht eine Wunde der Stufe 2 oder höher. Wunden aus körperlichen Verletzungen sind negative Beeinträchtigungen, die in der Regel alle Fertigkeiten der Domäne /Körper/ betreffen, d.h. sie geben einen Malus in Höhe ihrer Stufe auf alle Proben dieser Domäne.
+
+#+begin_comment
+[[id:42a30478-6d27-4459-a086-acd78376fb64][Zustand durch Höchste Wundstufe]]
+#+end_comment
+
+*Zustand durch schwerste Wunde:*
+
+Der gesundheitliche Gesamtzustand wird durch die schwerste Wunde festgelegt.
+
+#+caption: Gesundheitlicher Zustand nach schwerster Wunde
+| Wundstufe | Zustand          | unmittelbare Folge                   |
+|-----------+------------------+--------------------------------------|
+| 1-2       | verletzt         | --                                   |
+| 3-4       | schwer verletzt  | am Boden, kampfunfähig               |
+| 5-6       | tödlich verletzt | tot in wenigen Stunden, Augenblicken |
+| 7         | sofort tot       |                                      |
+
+#+begin_comment
+[[id:4d0ea1f8-6384-4356-b78c-90cf4ae1256f][Heilung]]
+#+end_comment
+
+*Heilung:* Durch Proben auf /Heilkunst/ können Wunden geheilt werden. Als Richtlinie dient dabei, dass je 4 Effekt-Punkte die Stufe einer freiwählbaren Wunde um einen Punkt reduzieren. Diese Heilung tritt jedoch erst nach einer Ruhephase mit ein paar Stunden Schlaf ein.
+
+* Kampf
+
+#+begin_comment
+[[id:622e99da-fdd0-44b5-a874-1584453e861a][Konflikte durch Proben]]
+[[id:bf3106da-7f2e-4509-bedf-653189c61411][Konflikte als vergleichende Fertigkeitsproben]]
+#+end_comment
+
+*Kämpfe als vergleichende Fertigkeitsproben:* Alle Kämpfe (Fern- und Nahkampf) werden als vergleichende Fertigkeitsproben dargestellt. Das Resultat gibt Auskunft, wer der *Überlegene* und wer der *Unterlegene* ist. Der Überlegene erhält die weitgehende Kontrolle über die Situation, während der Unterlegene sich fügen muss.
+
+#+begin_comment
+[[id:742e17c6-4abb-475a-a62c-d3d953ce35cc][Proben-Einteilung in Schlagabtausche]]
+#+end_comment
+
+*Schlagabtausch:* Die durch eine Kampfprobe dargestellte Kampfdauer umfasst einen Schlagabtausch, womit ein Zeitraum von etwa fünf bis zehn Sekunden gemeint ist, oder etwa so lange wie man braucht, um sich zu besinnen, was eigentlich gerade passiert ist. In einem Schlagabtausch werden mehrere Hiebe ausgeteilt und gekontert oder mehrere Geschosse oder Salven verschossen, falls nötig.
+
+*Nahkampf:* Im Nahkampf kommt in der Regel /Kämpfen/, /Kraft/ oder /Gewandheit/ zum Einsatz.
+
+#+begin_comment
+[[id:1a3b91b5-974f-48a1-8bf7-841c54c3ad63][Fernkampf als vergleichende Probe]]
+#+end_comment
+
+*Fernkampf:* Ein Fernkämpfer muss eine Probe auf /Werfen/ oder /Schießen/ ablegen. Für das Opfer kommen je nach Situation Fertigkeiten wie /Wahrnehmung/, /Ausweichen/, /Athletik/ oder /Heimlichkeit/ zum Einsatz. Sollte das Opfer zum Nahkampf übergehen, wird das in einer anschließenden Nahkampfprobe gehandhabt. Der Fernkämpfer sollte mit einer Beeinträchtigung von 2 belegt werden (Begründung: Realismus und Balancing).
+
+/Hinweis: Wenn man unbedingt die Schüsse einzelnen abbilden möchte, wird jede Probe für den Fernkämpfer um 2 weitere Punkte erschwert./
+
+#+begin_comment
+[[id:08f18ca1-53e5-422c-9982-5c078c5d332b][Effekt aus Konfliktprobe als Verletzungsstufe]], [[id:0d087a97-a9bb-4f7b-9cb1-0c334837eebc][Gnade des Überlegenen]]
+#+end_comment
+
+*Verletzung durch Effekt:* Der Überlegene darf den Effekt der Kampfprobe in eine Verletzung ensprechender Stufe für den Unterlegenen umwandeln (nur falls er auch tatsächlich gekämpft hat und nicht ausgewichen ist o.ä.).
+
+* Magie
+
+#+begin_comment
+[[id:be52aaab-8c07-4960-bf13-208f0a5844b2][Profilangabe für Zauberer]]
+#+end_comment
+
+*Profilangabe für Zauberer:* Besitzt ein Charakter die Fähigkeit zum Wirken von Magie, so muss das zu allererst im Profil angegeben sein.
+
+#+begin_comment
+[[id:2550f1ad-7e75-4537-986d-b1b5792442f0][Gestaltung der Magie durch Tradition]]
+#+end_comment
+
+*Magische Tradition:*
+
+Darüberhinaus beschreibt die Spieler die magische /Tradition/ des Charakters. Die Beschreibung muss folgende Punkte umfassen:
+
+- die *Quelle der Zauberkraft* (Geister, Sterne, Schriftzeichen, Götter, Dämonen o.ä.)
+- mögliche *Zauberwirkungen* (beispielhaft Zauber, die jeder Novize beherrscht, und solche, die nur Großmeistern gelingen)
+- die *Zaubertechnik* (was der Zauberende tun muss, um einen Zauber zu wirken)
+- die *Konsequenzen*, die das Wirken von Magie für den Zaubernden hat (Kopfschmerzen, Alterserscheinungen, Erschöpfung o.ä.)
+
+Die Beschreibung der Tradition sollte der Spielgruppe vorgestellt werden, so dass es keine Einwände gibt.
+
+#+begin_comment
+[[id:6065e6f7-5630-47ac-91da-75355bcd85bf][Magiewirkung als Fertigkeitsprobe]]
+#+end_comment
+
+*Magiefertigkeit:* Der Charakter bekommt nun eine neue Fertigkeit, auf die seine Proben abgelegt werden, um Magie wirken zu können, z.B. /Zaubern/.
+
+#+begin_comment
+[[id:91b92d8c-a7d2-4984-9c45-d1cb47bfb25a][Gewichtete Magiefertigkeit]]
+#+end_comment
+
+*Gewichtete Magiefertigkeit:* Bei Zauberern mit breitem Wirkungsspektrum wird die zum Zaubern verwendete Fertigkeit mit Faktor zwei oder höher gewichtet (ab Gewichtung 4 gilt man als Freizauberer, kann beliebige Wirkungen erzielen und ist nicht mehr an Techniken gebunden).
+
+* Links
+
+- [[https://github.com/kpzart/dunkle-zeiten-charakterbogen/releases][Vorgefertigter Charakterbogen]]
+- [[https://landertal.de/dunkle-zeiten-zusatzregeln/][Die Regelerweiterungen für die aktuelle Gruppe]]
+
+* Glossar                                                                                           :noexport:
+
+- Profil
+- Fertigkeit
+- Domäne
+- Spezialisierung
+- Grundwert
+- Erfahrungspunkte
+- Generierungspunkte
+- Minimalwert
+- Säulenregel
+- Bonus/Malus/Beeinträchtigung
+- Stärken/Schwächen
+- Proben
+- Schwierigkeit
+- Güte
+- Effekt
+- Potenzial
+- Vergleichsgüte
+- (Vorteil/Nachteil) nicht erwähnt
+- (Triumph/Patzer) nicht erwähnt
+- Verletzung
+- Wundstufe
+- Wunde
+- Überlegener/Unterlegener
+- magische Tradition
