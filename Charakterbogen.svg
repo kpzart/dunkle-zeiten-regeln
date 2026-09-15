@@ -27,8 +27,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="1.014026"
-     inkscape:cx="2022.1375"
-     inkscape:cy="736.17443"
+     inkscape:cx="833.80505"
+     inkscape:cy="205.61603"
      inkscape:window-width="1800"
      inkscape:window-height="1110"
      inkscape:window-x="0"
@@ -563,7 +563,7 @@
        transform="translate(-0.3250902,1.5122788)"><tspan
          x="908.88123"
          y="30.079912"
-         id="tspan1">Beschreibe den Charakter in ein paar Sätzen oder Stichworten zu Herkunft, Lebensweg, Persönlichkeit, Fähigkeiten und Erscheinung.</tspan></text>
+         id="tspan12">Beschreibe den Charakter in ein paar Sätzen oder Stichworten zu Herkunft, Lebensweg, Persönlichkeit, Fähigkeiten und Erscheinung.</tspan></text>
     <g
        id="g519"
        transform="translate(0,-18.520839)">
@@ -1088,7 +1088,7 @@
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
            x="1355.0726"
            y="249.67763"
-           id="tspan135-9">Unterwelt</tspan><tspan
+           id="tspan135-9">Gesellschaft</tspan><tspan
            sodipodi:role="line"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
            x="1355.0726"
@@ -1149,7 +1149,7 @@
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
            x="1354.6968"
            y="253.63884"
-           id="tspan192-4">(Hehlerei, Gossengesetz, Bandenstruktur)</tspan><tspan
+           id="tspan192-4">(Gosse, Adel, Unterwelt, Militär, Klerus)</tspan><tspan
            sodipodi:role="line"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
            x="1354.6968"
@@ -1323,7 +1323,7 @@
          transform="translate(1114.8126,5.541655)"><tspan
            x="37.450947"
            y="215.27548"
-           id="tspan4">Überschreitet eine Verletzung eine Wundschwelle, entsteht eine Beeinträchtigung (Wunde) -1  in dieser Domäne.</tspan></text>
+           id="tspan13">Überschreitet eine Verletzung eine Wundschwelle, entsteht eine Beeinträchtigung (Wunde) -1  in dieser Domäne.</tspan></text>
       <path
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 1105.1013,239.55603 h 199.9993"
@@ -1375,14 +1375,14 @@
          transform="translate(0,-4.7625002)"><tspan
            x="1258.4717"
            y="236.54222"
-           id="tspan6"><tspan
+           id="tspan15"><tspan
              style="stroke-width:0.265"
-             id="tspan5">Domäne / </tspan></tspan><tspan
+             id="tspan14">Domäne / </tspan></tspan><tspan
            x="1258.4717"
            y="241.83387"
-           id="tspan8"><tspan
+           id="tspan17"><tspan
              style="stroke-width:0.265"
-             id="tspan7">Fertigkeit</tspan></tspan></text>
+             id="tspan16">Fertigkeit</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1614,7 +1614,7 @@
          transform="translate(891.44739,-23.060759)"><tspan
            x="37.450947"
            y="215.27548"
-           id="tspan9">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
+           id="tspan18">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
     </g>
   </g>
   <g
@@ -1767,7 +1767,7 @@
        transform="translate(1327.4692,-0.188476)"><tspan
          x="482.23108"
          y="150.22459"
-         id="tspan10">Detaillierte Wirkung, Wirkungsdauer, Zauberdauer und Schwere der Konsequenzen des Zaubers.</tspan></text>
+         id="tspan19">Detaillierte Wirkung, Wirkungsdauer, Zauberdauer und Schwere der Konsequenzen des Zaubers.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999"
@@ -1817,7 +1817,7 @@
          transform="translate(1320.0608,2.4411301)"><tspan
            x="488.02557"
            y="34.256241"
-           id="tspan11">Quelle der magischen Kraft, verwendete Technik und  Art der Konsequenzen des Zauberns für den Zaubernden.</tspan></text>
+           id="tspan20">Quelle der magischen Kraft, verwendete Technik und  Art der Konsequenzen des Zauberns für den Zaubernden.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
