@@ -117,9 +117,7 @@ Beispiele:
 
 *Gespanne als Proben mit Unterstützung:*
 
-Wirken in einem Konflikt mehrere Beteiligte im Team zusammen, können sie zu einem /Gespann/ zusammengefasst werden (das ist komplex, aber praktisch für massenweise NSCs). Ihre Probenergebnisse werden dann nach /Verschmelzung von Fertigkeiten zur Unterstützung/ (siehe oben) miteinander verschmolzen. Entweder sind alle gemeinsam unterlegen oder überlegen. Den Leitwert bildet die höchste Fertigkeit (vor oder nach Würfelwurf) des Teams. Die Fertigkeitswerte der Helfer werden unrandomisiert (also ohne Würfelwurf!) geviertelt und abgerundet und zum Leitwert addiert. Dann wird (einmal!) gewürfelt (oder das Ergebnis für den Leitwert verwendet) und wie üblich der Effekt durch Vergleich mit der Gegenseite bestimmt.
-
-/Hinweis: Sollte die Regel auf Spieler-Charaktere Anwendung finden, will üblicherweise jeder einmal würfeln. Dann wird vor Bestimmung des Leitwert gewürfelt. Ansonsten einfach erst danach./
+Wirken in einem Konflikt mehrere Beteiligte im Team zusammen, können sie zu einem /Gespann/ zusammengefasst werden (das ist komplex, aber praktisch für massenweise NSCs). Ihre Probenergebnisse werden dann nach /Verschmelzung von Fertigkeiten zur Unterstützung/ (siehe oben) miteinander verschmolzen. Entweder sind alle gemeinsam unterlegen oder überlegen. Den Leitwert bildet die höchste Fertigkeit des Teams. Die Fertigkeitswerte der Helfer werden geviertelt und abgerundet und zum Leitwert addiert. Dann wird (einmal!) gewürfelt und wie üblich der Effekt durch Vergleich mit der Gegenseite bestimmt.
 
 Beispiel: 3 Goblins mit Anführer (Kämpfen 6, die anderen 5) kämpfen gegen einen Elfen (Kämpfen 9). Die Goblins werden zu einem Gespann zusammengefasst, damit nicht soviel gewürfelt werden muss. Leitwert ist 6, die anderen beiden können jeweils einen Punkt dazu addieren. Das Gespann hat also Kämpfen 8.
 
