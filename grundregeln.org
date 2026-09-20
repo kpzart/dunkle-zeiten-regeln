@@ -75,6 +75,7 @@ Dilemma
 
 #+begin_comment
 [[id:f5a368a7-43f0-4cd1-ace8-35e919e978e6][Fertigkeits-Domänen]]
+[[id:aafb2f9f-9732-43e0-8003-bc648464160b][Basis- und Spezialfertigkeiten]] (nicht explizit erwähnt, jedoch bei den Folgen Schwächen und reduzierten Fertigkeiten aufgeführt)
 #+end_comment
 
 *Domänen:* Die Fertigkeiten werden in fünf /Domänen/ eingeteilt: /Stellung/, /Geist/, /Sozial/, /Körper/ und /Künste/.
