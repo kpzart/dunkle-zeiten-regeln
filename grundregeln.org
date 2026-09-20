@@ -48,17 +48,16 @@ Einer der Mitspieler bekommt die Rolle der /Spielleitung/. Die Spielleitung ...
 
 *Profil:*
 
-Jeder Charakter wird durch etwa eine Handvoll Stichpunkte oder kurze Sätze beschrieben: sein /Profil/.
+Jeder Charakter wird durch etwa eine Handvoll Stichpunkte oder *kurze* Sätze beschrieben: sein /Profil/.
 
 Berücksichtige folgende Bereiche:
 
 - Hintergrund und bisheriger Lebensweg
 - Persönlichkeit
-- Fähigkeiten
-- Erscheinung
+- Profession und Fähigkeiten
 - gesellschaftliches Umfeld
 
-Im Laufe des Spiels kannst du das Profil des Charakters verfeinern oder ändern, wenn sich das Wesen deines Charakters im Spiel verändert.
+Im Laufe des Spiels kannst du das Profil des Charakters verfeinern oder ändern, falls sich das Wesen deines Charakters im Spiel verändern sollte.
 
 #+begin_comment
 Dilemma
