@@ -108,10 +108,10 @@ Um ihren Grundwert erhöhen zu können, erhalten die Charaktere /Erfahrungspunkt
 Bei der Erstellung des Charakters erhält jeder 21 Erfahrungspunkte (/Generierungspunkte/), um die Fertigkeiten individuell zu gestalten. Nach jedem Spielabend erhalten die Charaktere ein bis zwei Erfahrungspunkte dazu.
 
 #+begin_comment
-[[id:9f663c68-3cfd-42a3-a84a-811e25fedf0e][Fertigkeiten unter dem Grundwert]]
+[[id:9f663c68-3cfd-42a3-a84a-811e25fedf0e][Reduzierte Fertigkeiten]]
 #+end_comment
 
-*Fertigkeiten unter dem Grundwert:* Bei der Erstellung des Charakters dürfen Fertigkeiten auch mit negativen Erfahrungspunkten belegt werden, wodurch sie unter den Grundwert fallen, der für gesunde Erwachsene gilt. Dies muss jedoch im Profil eine Begründung haben und dürfen nicht die Domäne /Künste/ betreffen. Diese Punkte können dann zusätzlich auf andere Fertigkeiten verteilt werden.
+*Reduzierte Fertigkeiten:* Bei der Erstellung des Charakters dürfen Fertigkeiten auch mit negativen Erfahrungspunkten belegt werden, wodurch sie unter den Grundwert fallen, der für gesunde Erwachsene gilt. Reduzierte Fertigkeiten müssen im Profil eine Begründung haben und dürfen nicht die Domäne /Künste/ betreffen. Diese Punkte können dann zusätzlich auf andere Fertigkeiten verteilt werden.
 
 #+begin_comment
 [[id:a906d476-a9e9-46ad-b6b6-988ed1e5fe3d][Minimalwert von Fertigkeiten]]
@@ -135,7 +135,7 @@ Zur individuellen Ausgestaltung der Fertigkeiten können /Stärken/ und /Schwäc
 
 Eine /Stärke/ reduziert den Wert einer Fertigkeit um einen Punkt und gibt im Spezialgebiet dafür zwei Punkte Bonus. Fertigkeiten mit Stärke zählen für die Säulenregel als einen Punkt teurer als ihr Wert beträgt (und damit soviel, wie Erfahrungspunkte eingesetzt wurden).
 
-Eine /Schwäche/ erhöht den Wert der Fertigkeit insgesamt, ohne dass ein Fertigkeitspunkt eingesetzt wurde, jedoch ist der Wert der Fertigkeit im Spezialgebiet um vier Punkte reduziert. Fertigkeiten mit Schwäche zählen für die Säulenregel als einen Punkt teurer als hier Erfahrungspunkte eingesetzt wurden (und damit soviel, wie ihr Wert beträgt).
+Eine /Schwäche/ erhöht den Wert der Fertigkeit insgesamt, ohne dass ein Fertigkeitspunkt eingesetzt wurde, jedoch ist der Wert der Fertigkeit im Spezialgebiet um vier Punkte reduziert. Fertigkeiten mit Schwäche zählen für die Säulenregel als einen Punkt teurer als hier Erfahrungspunkte eingesetzt wurden (und damit soviel, wie ihr Wert beträgt). Ebenso wie /reduzierte Fertigkeiten/ müssen Schwächen im Profil eine Begründung haben und dürfen nicht die Domäne /Künste/ betreffen.
 
 #+begin_comment
 [[id:b6e3dbeb-1824-4137-8ff2-e4b1c40eba63][Gewichtete Fertigkeiten]]
