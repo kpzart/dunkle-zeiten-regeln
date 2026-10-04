@@ -78,7 +78,7 @@ Dilemma
 [[id:aafb2f9f-9732-43e0-8003-bc648464160b][Basis- und Spezialfertigkeiten]] (nicht explizit erwähnt, jedoch bei den Folgen Schwächen und reduzierten Fertigkeiten aufgeführt)
 #+end_comment
 
-*Domänen:* Die Fertigkeiten werden in fünf /Domänen/ eingeteilt: /Stellung/, /Geist/, /Sozial/, /Körper/ und /Künste/.
+*Domänen:* Die Fertigkeiten werden in fünf /Domänen/ eingeteilt: /Status/, /Geist/, /Sozial/, /Körper/ und /Künste/.
 
 #+begin_comment
 [[id:d9606d58-b8e9-4e07-8ae7-dd123655d868][Teilbereiche einer Fertigkeit]]
@@ -198,7 +198,6 @@ Der Charakterbogen eines Spielercharakters sollte enthalten:
 
 ** Status
 
-- Stellung (Stand, Ansehen, Rang, Benehmen; 0: Aussätziger/Verurteilter, 1: Sklave, 2: Leibeigener/Unmündiger, 3: Bettler, 4: Knecht/Tagelöhner, 5-6: Bauer/Handwerker/Soldat/Händler, 7-9: Gelehrter/Priester/Beamter, ab 10: Adelsränge)
 - Hab & Gut (Ausrüstung, Reichtum, Vorrat)
 
 ** Geist

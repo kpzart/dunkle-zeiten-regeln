@@ -28,7 +28,9 @@ Diese Regeln sind eine Ideensammlung, die kompatibel zu den Grund- und Zusatzreg
 
 *Alternative Spezialgebiete:* Fertigkeiten lassen eine alternative Einteilung in Teilbereiche zu, in denen ein Charakter eine zusätzliche Stärke besitzen kann (allerdings weiterhin nur eine Schwäche pro Fertigkeit). Beispiel ist die Einteilung von /Kämpfen/ nach Manöver (siehe unten).
 
-*Fertigkeit /Kontakte/:* Die persönlichen Verbindungen in die Gesellschaft werden durch die Fertigkeit /Kontakte (Familie, Freunde, Organisation, Geschäft)/ in der Somäne /Status/ ausgedrückt.
+*Fertigkeit /Kontakte/:* Die persönlichen Verbindungen in die Gesellschaft werden durch die Fertigkeit /Kontakte (Familie, Freunde, Organisation, Geschäft)/ in der Domäne /Status/ ausgedrückt.
+
+*Fertigkeit /Stellung/:* Die gesellschaftliche Stellung des Charakters wird durch die Fertigkeit /Stellung (Stand, Ansehen, Rang, Benehmen)/ in der Domäne /Status/ ausgedrückt. Richtlinie für die Werte: 0: Aussätziger/Verurteilter, 1: Sklave, 2: Leibeigener/Unmündiger, 3: Bettler, 4: Knecht/Tagelöhner, 5-6: Bauer/Handwerker/Soldat/Händler, 7-9: Gelehrter/Priester/Beamter, ab 10: Adelsränge)
 
 * Inventar
 
