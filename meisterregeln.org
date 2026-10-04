@@ -21,11 +21,14 @@ Diese Regeln sind eine Ideensammlung, die kompatibel zu den Grund- und Zusatzreg
 [[id:4802f5ca-d982-4e5d-a0a3-c0dcbb9c1fb9][Tricks]]
 [[id:1b09e426-ad4e-4065-95cc-0544766f8f42][Tricks durch Schicksalspunkte]]
 [[id:31fdd6c4-e1b2-4239-9942-095d9daffc4c][Alternative Teilbereiche]]
+[[id:8dad674f-1ee6-409f-a09d-960864ea9748][Fertigkeit /Kontakte/]]
 #+end_comment
 
 *Tricks:* Tricks sind charakter-spezifische Spezialregeln, die durch Erfahrungspunkte bezahlt werden. Dadurch können Regelausnahmen festgelegt werden (z.B. dass ein waffenlos Kämpfender keinen Malus erhält). Der Einsatz von Tricks erfordert einen Schicksalspunkt.
 
 *Alternative Spezialgebiete:* Fertigkeiten lassen eine alternative Einteilung in Teilbereiche zu, in denen ein Charakter eine zusätzliche Stärke besitzen kann (allerdings weiterhin nur eine Schwäche pro Fertigkeit). Beispiel ist die Einteilung von /Kämpfen/ nach Manöver (siehe unten).
+
+*Fertigkeit /Kontakte/:* Die persönlichen Verbindungen in die Gesellschaft werden durch die Fertigkeit /Kontakte (Familie, Freunde, Organisation, Geschäft)/ in der Somäne /Status/ ausgedrückt.
 
 * Inventar
 
