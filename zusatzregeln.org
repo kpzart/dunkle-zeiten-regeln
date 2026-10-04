@@ -18,7 +18,7 @@ Regelerweiterungen für erfahrene Gruppen.
 [[id:dbdc1e71-58a0-4055-9a05-06e2e31bc48c][Hybride Spielleitung]]
 #+end_comment
 
-*Hybride Spielleitung:* Die Spielleitung wird von einem Mitspieler übernommen und ist insbesondere für das Voranschreiten der Story und die Moderation der Runde alleine verantwortlich. Die anderen Aufgaben der Spielleitung dürfen jedoch jederzeit auch von anderen Spielern übernommen werden.
+*Hybride Spielleitung:* Die Spielleitung wird von einem Mitspieler übernommen und ist insbesondere für die Story und die Moderation der Runde alleine verantwortlich. Die anderen Aufgaben der Spielleitung dürfen jedoch jederzeit auch von anderen Spielern übernommen werden.
 
 * Charaktere
 
@@ -198,7 +198,7 @@ Beispiele für Manöver und wieviele Effektpunkte sie erfordern:
 [[id:f86cd7f7-6c82-4c56-acc9-c59d3fb9f87a][Reduzierter Fertigkeitswert auf /Kämpfen/ für Unbewaffnete]]
 #+end_comment
 
-*Halbierter Fertigkeitswert für Unbewaffnete auf /Kämpfen/:* Wer unbewaffnet kämpft, dessen Fertigkeitswert auf /Kämpfen/ wird um 2 Punkte reduziert.
+*Reduzierter Fertigkeitswert für Unbewaffnete auf /Kämpfen/:* Wer unbewaffnet kämpft, dessen Fertigkeitswert auf /Kämpfen/ wird um 2 Punkte reduziert.
 
 #+begin_comment
 [[id:a328efb9-2b4e-4138-aa51-cc0368afe8bc][Fernkämpfer im Nahkampf]]

@@ -12,7 +12,7 @@ Diese Regeln sind eine Ideensammlung, die kompatibel zu den Grund- und Zusatzreg
 [[id:fb902003-9575-406c-b773-17a75c030217][Zeitliche Einteilung]]
 #+end_comment
 
-*Gemeinsame Spielleitung:* Alle Mitspieler sind in der gemeinsamen Verantwortung der Spielleitung. (Alternative zur /Hybriden Spielleitung/)
+*Gemeinsame Spielleitung:* Alle Mitspieler sind in der gemeinsamen Verantwortung der Spielleitung.
 
 *Zeitliche Einteilung:* Das länger andauernde Spiel wird in /Proben/, /Szenen/, /Spielabende/, /Abenteuer/, /Kampagnen/ und /Setting/ eingeteilt.
 

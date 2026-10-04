@@ -25,7 +25,7 @@ Einer der Mitspieler bekommt die Rolle der /Spielleitung/. Die Spielleitung ...
 - ... gestaltet die erlebte Spielwelt
 - ... übernimmt die Rolle der NSCs
 - ... legt die Regeln aus (und verlangt und gestaltet Proben)
-- ... ist für das Voranschreiten der Story verantwortlich
+- ... ist für den Beginn, das Voranschreiten und das Ende der Story verantwortlich
 - ... moderiert die Runde.
 
 #+begin_comment
@@ -245,6 +245,10 @@ Weitere Fertigkeiten, die frei erfunden werden können, z.B.:
 
 * Inventar
 
+#+begin_quote
+Ich hab ein Haus, ein Äffchen und ein Pferd ...
+#+end_quote
+▷
 #+begin_comment
 [[id:e5071bf0-1588-4c6a-a5ec-5fb692720cbb][Fertigkeit Finanzen]], [[id:d9042140-426a-4da4-bfe8-cd573ed10581][Fertigkeit Ausrüstung]]
 #+end_comment
