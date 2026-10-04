@@ -27,7 +27,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="1.014026"
-     inkscape:cx="1822.9316"
+     inkscape:cx="775.62114"
      inkscape:cy="206.6022"
      inkscape:window-width="1800"
      inkscape:window-height="1110"
@@ -542,7 +542,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
          x="1084.9647"
          y="9.8813143"
-         id="tspan61-2">2026-09-05</tspan></text>
+         id="tspan61-2">2026-10-04</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1924,7 +1924,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="filter"
-     style="display:none;mix-blend-mode:difference"
+     style="display:inline;mix-blend-mode:difference"
      transform="translate(-880.00002)">
     <rect
        style="display:inline;mix-blend-mode:difference;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.379501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
